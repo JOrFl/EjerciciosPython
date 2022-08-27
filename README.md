@@ -1,2 +1,2 @@
-# Hoda Soy Juanito
-Este es mi repotitorio de ejetitios de Python
+# Hola Soy Juan
+Este es mi repositorio de ejercicios de Python
